@@ -6,7 +6,7 @@ I'm Mert from Turkey 🇹🇷
 
 I build production software, AI-native products, and tools for the agentic era.
 
-currently teaching agents to be less confused and myself to stop turning every tiny script into a product.
+Currently teaching agents to be less confused.
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mertcetin20/)
 
